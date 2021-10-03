@@ -1,0 +1,7 @@
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\bin\Debug\ConsolCalc.exe.config
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\bin\Debug\ConsolCalc.exe
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\bin\Debug\ConsolCalc.pdb
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\obj\Debug\ConsolCalc.csproj.AssemblyReference.cache
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\obj\Debug\ConsolCalc.csproj.CoreCompileInputs.cache
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\obj\Debug\ConsolCalc.exe
+D:\Project C#\ConsolCalc\ConsolCalc\ConsolCalc\obj\Debug\ConsolCalc.pdb
