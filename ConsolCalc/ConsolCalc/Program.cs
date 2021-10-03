@@ -10,7 +10,7 @@ namespace ConsolCalc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(" Введите значение ");
+            Console.WriteLine(" Введите значение цифр ");
             Console.Write(" ");
             string consol_string = Console.ReadLine();
             Calc calc = new Calc(consol_string);
